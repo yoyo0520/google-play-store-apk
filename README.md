@@ -1,6 +1,5 @@
 # 首先您需要VPN支持
-机场名：瑶瑶领先
-机场地址：[点击跳转](https://invite.yyssr.net/auth/register?code=FvDwh8)
+瑶瑶领先机场地址：[点击跳转](https://invite.yyssr.net/auth/register?code=FvDwh8)
 - 有免费节点，协议:vmess ss，地区:美国、香港、台湾、日本、新加坡...等等，主流地区流媒体ChatGPT/OpenAI解锁支持。
 - 全平台系统支持(Android、iOS、Windows、MacOS、Linux...)
 - 付费节点价格：12元(256G/月)，24元(512G/月)，48元(1024G/月)
