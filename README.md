@@ -18,3 +18,45 @@
 > - Google Play 商店（Google Play Store）
 > 
 > 官方的应用市场，允许用户下载、安装、更新各种应用，同时验证应用的合法性。
+
+# 关于版本选择
+有时下载软件包有好几种选择，包括 arm64-v8a、armeabi-v7a、armeabi、x86_64 等。
+
+如果不清楚它们的含义，随便选择下载可能导致软件不能安装。
+
+我们手机大部分 CPU 都是 arm 架构，所以下面选择 arm64-v8a + armeabi-v7a 的下载。
+
+<table>
+<thead>
+<tr>
+<th>ABI 名称</th>
+<th>对应 CPU</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>arm64-v8a</td>
+<td>表示第 8 代 64 位 ARM 处理器</td>
+</tr>
+<tr>
+<td>armeabi-v7a</td>
+<td>表示第 7 代及以上 32 位 ARM 处理器</td>
+</tr>
+<tr>
+<td>armeabi</td>
+<td>表示第 5 代和第 6 代 32 位 ARM 处理器</td>
+</tr>
+<tr>
+<td>x86-64</td>
+<td>表示 Intel 64 位处理器（主要平板和虚拟机使用）</td>
+</tr>
+<tr>
+<td>x86</td>
+<td>表示 Intel 32 位处理器（主要平板和虚拟机使用）</td>
+</tr>
+<tr>
+<td colspan="2">提示：64 位处理器可以兼容运行针对 32 位处理器编译的软件，反之则不行</td>
+</tr>
+</tbody>
+</table>
+
