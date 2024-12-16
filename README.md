@@ -6,7 +6,7 @@
 全平台系统支持(Android、iOS、Windows、MacOS、Linux...)
 付费节点价格：12元(256G/月)，24元(512G/月)，48元(1024G/月)
 
-#谷歌服务三件套介绍
+# 谷歌服务三件套介绍
 “谷歌服务三件套”通常指的是 Android 手机上常见的 Google 服务框架和相关应用，这三件是运行 Google 服务及应用的核心组件。它们包括：
 Google 服务框架（Google Services Framework，GSF）
 核心组件，用于提供 Google 服务的基础支持，比如与 Google 服务器的通信、账户同步、推送通知等。
